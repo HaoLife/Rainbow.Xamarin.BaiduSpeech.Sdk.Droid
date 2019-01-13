@@ -1,0 +1,5 @@
+C:\Users\w4384\Desktop\Rainbow.Xamarin.BaiduSpeech.Sdk.Droid\Rainbow.Xamarin.BaiduSpeech.Sdk.Droid\bin\Debug\Rainbow.Xamarin.BaiduSpeech.Sdk.Droid.dll
+C:\Users\w4384\Desktop\Rainbow.Xamarin.BaiduSpeech.Sdk.Droid\Rainbow.Xamarin.BaiduSpeech.Sdk.Droid\bin\Debug\Rainbow.Xamarin.BaiduSpeech.Sdk.Droid.pdb
+C:\Users\w4384\Desktop\Rainbow.Xamarin.BaiduSpeech.Sdk.Droid\Rainbow.Xamarin.BaiduSpeech.Sdk.Droid\obj\Debug\Rainbow.Xamarin.BaiduSpeech.Sdk.Droid.csproj.CoreCompileInputs.cache
+C:\Users\w4384\Desktop\Rainbow.Xamarin.BaiduSpeech.Sdk.Droid\Rainbow.Xamarin.BaiduSpeech.Sdk.Droid\obj\Debug\Rainbow.Xamarin.BaiduSpeech.Sdk.Droid.dll
+C:\Users\w4384\Desktop\Rainbow.Xamarin.BaiduSpeech.Sdk.Droid\Rainbow.Xamarin.BaiduSpeech.Sdk.Droid\obj\Debug\Rainbow.Xamarin.BaiduSpeech.Sdk.Droid.pdb

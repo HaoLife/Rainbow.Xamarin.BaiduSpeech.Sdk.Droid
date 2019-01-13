@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <DefineConstants>$(DefineConstants);ANDROID_1;ANDROID_2;ANDROID_3;ANDROID_4;ANDROID_5;ANDROID_6;ANDROID_7;ANDROID_8;ANDROID_9;ANDROID_10;ANDROID_11;ANDROID_12;ANDROID_13;ANDROID_14;ANDROID_15;ANDROID_16;ANDROID_17;ANDROID_18;ANDROID_19;ANDROID_20;ANDROID_21;ANDROID_22;ANDROID_23;ANDROID_24;ANDROID_25;ANDROID_26;ANDROID_27</DefineConstants>
+  </PropertyGroup>
+  <!-- Classes -->
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Baidu.Speech.Aidl.EventRecognitionService.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Baidu.Speech.Aidl.IEventListener.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Baidu.Speech.Aidl.IEventManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Baidu.Speech.Aidl.IEventManagerFactory.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Baidu.Speech.Asr.AnalysisInterceptor.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Baidu.Speech.Asr.ASRMessage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Baidu.Speech.Asr.ErrorCode.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Baidu.Speech.Asr.EventContext.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Baidu.Speech.Asr.EventManagerAsr.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Baidu.Speech.Asr.EventManagerSlot.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Baidu.Speech.Asr.EventManagerWp.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Baidu.Speech.Asr.IASRListener.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Baidu.Speech.Asr.PrivateConstant.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Baidu.Speech.Asr.SlotControl.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Baidu.Speech.Asr.SpeechConstant.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Baidu.Speech.Asr.WakeUpControl.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Baidu.Speech.Audio.MicrophoneServer.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Baidu.Speech.Core.ASREngine.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Baidu.Speech.Core.BDSCharacterCoder.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Baidu.Speech.Core.BDSCoreJniInterface.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Baidu.Speech.Core.BDSErrorDescription.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Baidu.Speech.Core.BDSHttpRequestMaker.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Baidu.Speech.Core.BDSHTTPResponse.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Baidu.Speech.Core.BDSMessage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Baidu.Speech.Core.BDSParamBase.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Baidu.Speech.Core.BDSSDKLoader.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Baidu.Speech.Core.BDSSpeechSDKContext.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Baidu.Speech.Easr.EasrNativeJni.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Baidu.Speech.Easr.VoicePreProcess.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Baidu.Speech.EventManagerFactory.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Baidu.Speech.IEventListener.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Baidu.Speech.IEventManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Baidu.Speech.MicrophoneInputStream.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Baidu.Speech.Utils.AESUtil.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Baidu.Speech.Utils.Analysis.Analysis.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Baidu.Speech.Utils.Analysis.Utility.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Baidu.Speech.Utils.AsrError.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Baidu.Speech.Utils.Base64.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Baidu.Speech.Utils.CommonParam.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Baidu.Speech.Utils.Device.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Baidu.Speech.Utils.DeviceId.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Baidu.Speech.Utils.LogUtil.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Baidu.Speech.Utils.MD5Util.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Baidu.Speech.Utils.Policy.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Baidu.Speech.Utils.SHA1Util.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Baidu.Speech.Utils.Util.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Baidu.Speech.Utils.Utility.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Com.Baidu.Speech.VoiceRecognitionService.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\Java.Interop.__TypeRegistrations.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)\__NamespaceMapping__.cs" />
+  </ItemGroup>
+  <!-- Enums -->
+  <ItemGroup />
+</Project>
