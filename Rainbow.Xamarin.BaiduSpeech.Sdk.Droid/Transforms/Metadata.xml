@@ -9,5 +9,15 @@
 
   <remove-node path="/api/package[@name='com.baidu.speech.asr']/
                    interface[@name='ASRListener']/
-                   method[@name='onEvent' and count(parameter)=5 ]" />
+                   method[@name='onEvent' and count(parameter)=6 ]" />
+
+
+
+
+  <!--<attr path="/api/package[@name='com.baidu.speech.asr']/
+        interface[@name='ASRListener']/
+        method[@name='onEvent' and count(parameter)=6 ]"
+    name="managedName">NewMethodName</attr>-->
+
+
 </metadata>
