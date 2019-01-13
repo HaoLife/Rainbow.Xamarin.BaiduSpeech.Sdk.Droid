@@ -1,8 +1,0 @@
-[assembly:global::Android.Runtime.NamespaceMapping (Java = "com.baidu.speech", Managed="Com.Baidu.Speech")]
-[assembly:global::Android.Runtime.NamespaceMapping (Java = "com.baidu.speech.aidl", Managed="Com.Baidu.Speech.Aidl")]
-[assembly:global::Android.Runtime.NamespaceMapping (Java = "com.baidu.speech.asr", Managed="Com.Baidu.Speech.Asr")]
-[assembly:global::Android.Runtime.NamespaceMapping (Java = "com.baidu.speech.audio", Managed="Com.Baidu.Speech.Audio")]
-[assembly:global::Android.Runtime.NamespaceMapping (Java = "com.baidu.speech.core", Managed="Com.Baidu.Speech.Core")]
-[assembly:global::Android.Runtime.NamespaceMapping (Java = "com.baidu.speech.easr", Managed="Com.Baidu.Speech.Easr")]
-[assembly:global::Android.Runtime.NamespaceMapping (Java = "com.baidu.speech.utils", Managed="Com.Baidu.Speech.Utils")]
-[assembly:global::Android.Runtime.NamespaceMapping (Java = "com.baidu.speech.utils.analysis", Managed="Com.Baidu.Speech.Utils.Analysis")]
