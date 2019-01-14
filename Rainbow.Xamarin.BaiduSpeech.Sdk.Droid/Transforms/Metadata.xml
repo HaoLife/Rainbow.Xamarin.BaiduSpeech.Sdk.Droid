@@ -7,17 +7,16 @@
   <remove-node path="/api/package[@name='android.support.v4.content']/class[@name='CursorLoader']/method[@name='loadInBackground']" />
   -->
 
-  <remove-node path="/api/package[@name='com.baidu.speech.asr']/
+  <!--<remove-node path="/api/package[@name='com.baidu.speech.asr']/
                    interface[@name='ASRListener']/
-                   method[@name='onEvent' and count(parameter)=6 ]" />
+                   method[@name='onEvent' and count(parameter)=6 ]" />-->
 
 
 
 
-  <!--<attr path="/api/package[@name='com.baidu.speech.asr']/
-        interface[@name='ASRListener']/
-        method[@name='onEvent' and count(parameter)=6 ]"
-    name="managedName">NewMethodName</attr>-->
+  <attr path="/api/package[@name='com.baidu.speech.asr']/
+        interface[@name='ASRListener']"
+    name="name">ASRService</attr>
 
 
 </metadata>
